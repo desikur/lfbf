@@ -24,11 +24,12 @@ public class Selensatu {
         sel.start();
         sel.open("/");
         Thread.sleep(2500); 
-        sel.windowMaximize();
-        
+        sel.windowMaximize();//asasaS
+        //test 12345
+        //gdjahsgdasgd
+        //gdhagdghgh
         //klik link math calculator
         sel.click("xpath=.//*[@id='menu']/div[3]/a");
-        Thread.sleep(2500); 
         
         //klik link percentage calculator
         sel.click("xpath=.//*[@id='menu']/div[4]/div[3]/a");

@@ -27,6 +27,7 @@ public class Selensatu {
         sel.windowMaximize();//asasaS
         //test 12345
 		//comment
+		//blobloblobloblbolbobloblob
         //gdhagdghgh
         //klik link math calculator
         sel.click("xpath=.//*[@id='menu']/div[3]/a");

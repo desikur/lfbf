@@ -26,7 +26,7 @@ public class Selensatu {
         Thread.sleep(2500); 
         sel.windowMaximize();//asasaS
         //test 12345
-        //gdjahsgdasgd
+		//comment
         //gdhagdghgh
         //klik link math calculator
         sel.click("xpath=.//*[@id='menu']/div[3]/a");

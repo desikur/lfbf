@@ -35,7 +35,8 @@ public class Selensatu {
         //klik link percentage calculator
         sel.click("xpath=.//*[@id='menu']/div[4]/div[3]/a");
         Thread.sleep(4000);
-        
+        //des suk kemis ktemu ra des? iki 
+		// nyo tambah neh
         //fokusin ke textbox pertama,kenapa harus difokusin ya?
         sel.focus("name=cpar1");
         //input angka pertama
